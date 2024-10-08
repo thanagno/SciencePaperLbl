@@ -1,0 +1,10 @@
+spacy==3.5.1
+torch==2.0.1
+transformers==4.30.2
+fitz==0.0.1.dev2  # For PyMuPDF
+tqdm==4.64.1
+pandas==1.5.3
+scikit-learn==1.2.2
+rapidfuzz==2.13.0
+numpy==1.23.5
+matplotlib==3.7.1
